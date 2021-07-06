@@ -15,3 +15,5 @@
     - Movie's Duration Over time
 
 https://nbviewer.jupyter.org/github/Takomochi/Netflix_Analysis/blob/main/netflix.ipynb
+
+![freestocks-11SgH7U6TmI-unsplash (1)](https://user-images.githubusercontent.com/85041697/124531587-cefa8400-dddc-11eb-90a2-4f7aa6551786.jpg)
